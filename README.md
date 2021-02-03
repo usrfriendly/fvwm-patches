@@ -2,6 +2,7 @@
 
 I have no idea where these originated, or their license, nor do I have the skills to maintain them, or even know *anything* about them.  If you've got this info, file an issue or a PR to add to this README, and I'll update.
 
+I pilfered the patches from [willscreel](https://github.com/willscreel)
 
 I'm not a Debian packager, FVWM contributor or anything.  These instructions are offered with no warranty, use at your own risk, blah blah.  It's mostly because I've just done it and want to share.
 
